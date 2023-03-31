@@ -1,6 +1,6 @@
 Name:		texlive-unizgklasa
 Version:	51647
-Release:	1
+Release:	2
 Summary:	A LaTeX class for theses at the Faculty Of Graphic Arts in Zagreb
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unizgklasa
